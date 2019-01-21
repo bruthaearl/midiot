@@ -1,0 +1,27 @@
+body{
+	background-color: #FBFCFC;
+}
+
+.white_key{
+	fill: #F7F9F9;
+	stroke: #17202A;
+}
+
+.white_key:hover{
+	fill: #F9EBEA;
+}
+
+.black_key{
+	fill: #212F3D;
+	stroke: #17202A;
+}
+
+.black_key:hover{
+	fill: #F2D7D5;
+}
+
+#container{
+	width: 100%;
+	height: 100%;
+	color
+}
