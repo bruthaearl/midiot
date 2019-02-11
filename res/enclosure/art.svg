@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg8" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" sodipodi:docname="art.svg" inkscape:version="0.92.4 5da689c313, 2019-01-14"
+	 id="svg8" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:version="0.92.4 5da689c313, 2019-01-14" sodipodi:docname="art.svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-7 -24.9 595.3 841.9"
 	 style="enable-background:new -7 -24.9 595.3 841.9;" xml:space="preserve">
 <style type="text/css">
@@ -20,41 +20,103 @@
 	.st12{fill:#1ABC9C;stroke:#34495E;stroke-width:0.4;stroke-linejoin:round;}
 	.st13{font-family:'SFAlienEncounters-Italic';}
 	.st14{font-size:70.8661px;}
+	.st15{font-family:'SegoeUI-SemiboldItalic';}
+	.st16{font-size:8.5039px;}
+	.st17{fill:none;stroke:#34495E;stroke-width:0.7087;}
 </style>
-<sodipodi:namedview  showguides="false" showgrid="false" inkscape:cy="699.14465" inkscape:cx="258.44848" pagecolor="#ffffff" bordercolor="#666666" id="base" inkscape:zoom="2" borderopacity="1.0" inkscape:window-maximized="0" inkscape:window-y="10" inkscape:window-x="10" inkscape:window-height="1038" inkscape:window-width="1900" inkscape:snap-text-baseline="true" inkscape:snap-center="true" inkscape:snap-object-midpoints="true" inkscape:current-layer="layer1" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:snap-smooth-nodes="true" inkscape:snap-midpoints="true" inkscape:pageshadow="2">
+<sodipodi:namedview  borderopacity="1.0" inkscape:zoom="2" id="base" bordercolor="#666666" pagecolor="#ffffff" inkscape:cx="258.44848" inkscape:cy="699.14465" showgrid="false" showguides="false" inkscape:pageshadow="2" inkscape:snap-midpoints="true" inkscape:snap-smooth-nodes="true" inkscape:pageopacity="0.0" inkscape:document-units="mm" inkscape:current-layer="layer1" inkscape:window-height="1038" inkscape:snap-object-midpoints="true" inkscape:window-x="10" inkscape:window-y="10" inkscape:snap-center="true" inkscape:snap-text-baseline="true" inkscape:window-maximized="0" inkscape:window-width="1900">
 	</sodipodi:namedview>
 <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
-	<rect id="rect4518" x="75.4" y="265.9" class="st0" width="330.7" height="171.9"/>
-	<circle id="path4522" class="st1" cx="82.5" cy="273.2" r="6.5"/>
-	<circle id="path4522-3" class="st1" cx="82.5" cy="430.7" r="6.5"/>
-	<circle id="path4522-6" class="st1" cx="398.5" cy="431.2" r="6.5"/>
-	<circle id="path4522-7" class="st1" cx="399.1" cy="272.7" r="6.5"/>
+	<rect id="rect4518" x="68.4" y="241" class="st0" width="330.7" height="171.9"/>
+	<circle id="path4522" class="st1" cx="75.5" cy="248.3" r="6.5"/>
+	<circle id="path4522-3" class="st1" cx="75.5" cy="405.8" r="6.5"/>
+	<circle id="path4522-6" class="st1" cx="391.5" cy="406.3" r="6.5"/>
+	<circle id="path4522-7" class="st1" cx="392.1" cy="247.8" r="6.5"/>
 	<g id="g4586" transform="translate(34.2105,65.748304)">
-		<circle id="path4553" class="st2" cx="331" cy="448" r="28.1"/>
-		<path id="path4561" inkscape:connector-curvature="0" class="st2" d="M311.3,428.2c39.6,39.6,39.6,39.6,39.6,39.6"/>
-		<path id="path4563" inkscape:connector-curvature="0" class="st2" d="M311.4,467.9c39.7-39.7,39.7-39.7,39.7-39.7"/>
+		<circle id="path4553" class="st2" cx="324" cy="423.1" r="28.1"/>
+		<path id="path4561" inkscape:connector-curvature="0" class="st2" d="M304.3,403.3c39.6,39.6,39.6,39.6,39.6,39.6"/>
+		<path id="path4563" inkscape:connector-curvature="0" class="st2" d="M304.4,443c39.7-39.7,39.7-39.7,39.7-39.7"/>
 	</g>
-	<path id="path4588" inkscape:connector-curvature="0" class="st3" d="M334.7,293.2c71.1,0,70.9,0,70.9,0"/>
-	<circle id="path4590" class="st4" cx="322.1" cy="295.1" r="9.1"/>
-	<text transform="matrix(1 0 0 1 354.7103 327.4647)" class="st5 st6 st7">NO NETWORK</text>
+	<path id="path4588" inkscape:connector-curvature="0" class="st3" d="M327.7,268.3c71.1,0,70.9,0,70.9,0"/>
+	<circle id="path4590" class="st4" cx="315.1" cy="270.2" r="9.1"/>
+	<text transform="matrix(1 0 0 1 347.7103 302.5646)" class="st5 st6 st7">NO NETWORK</text>
 	<g id="g6262">
-		<circle id="path4596" class="st8" cx="345.6" cy="325.3" r="4"/>
-		<circle id="path6101" class="st9" cx="345.6" cy="325.3" r="2"/>
+		<circle id="path4596" class="st8" cx="338.6" cy="300.4" r="4"/>
+		<circle id="path6101" class="st9" cx="338.6" cy="300.4" r="2"/>
 	</g>
 	<g id="g6177" transform="translate(-0.1185684,4.9905207)">
-		<text transform="matrix(1 0 0 1 354.8288 336.6202)" class="st5 st6 st7">NO INTERNET</text>
-		<circle id="path4596-4" class="st10" cx="345.7" cy="334.4" r="4"/>
+		<text transform="matrix(1 0 0 1 347.8288 311.7202)" class="st5 st6 st7">NO INTERNET</text>
+		<circle id="path4596-4" class="st10" cx="338.7" cy="309.5" r="4"/>
 	</g>
 	<g id="g6192" transform="translate(-0.1185684,9.9810414)">
-		<text transform="matrix(1 0 0 1 354.8288 345.7767)" class="st5 st6 st7">STANDBY</text>
-		<circle id="path4596-8" class="st11" cx="345.7" cy="343.6" r="4"/>
+		<text transform="matrix(1 0 0 1 347.8288 320.8766)" class="st5 st6 st7">STANDBY</text>
+		<circle id="path4596-8" class="st11" cx="338.7" cy="318.7" r="4"/>
 	</g>
 	<g id="g6192-4" transform="translate(-0.3992014,15.673145)">
 		<g id="g6221" transform="translate(0.280633,-0.70158251)">
-			<text transform="matrix(1 0 0 1 354.8288 354.9326)" class="st5 st6 st7">ACTIVITY</text>
-			<circle id="path4596-8-0" class="st12" cx="345.7" cy="352.7" r="4"/>
+			<text transform="matrix(1 0 0 1 347.8288 330.0325)" class="st5 st6 st7">ACTIVITY</text>
+			<circle id="path4596-8-0" class="st12" cx="338.7" cy="327.8" r="4"/>
 		</g>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 84.6663 371.7516)" class="st5 st13 st14">MIDIOT</text>
+<text transform="matrix(1 0 0 1 73.3329 346.7715)" class="st5 st13 st14">MIDIOT</text>
+<text transform="matrix(1 0 0 1 118.667 394.1449)" class="st5 st15 st16">OAK ST ELECTRONICS</text>
+<g>
+	<path id="path1633" inkscape:connector-curvature="0" class="st17" d="M99.2,391.5c-0.5-0.4-0.4-1.3-0.5-1.9c0-0.1-0.1-0.6,0.1-0.6
+		c0.2-0.1,0.5,0,0.6,0c0.5,0.1,1,0,1.4,0.2c0.2,0,0.4,0.2,0.4,0.4c0.1,0.5-0.6,1-0.9,1.3c-0.2,0.2-0.3,0.4-0.5,0.5
+		C99.7,391.4,99.4,391.4,99.2,391.5c-0.2,0.2-0.2,0.7-0.4,0.9c-0.3,0.3-0.6,0.7-1,0.9c-0.2,0.1-0.5,0.1-0.7,0.3
+		c-0.2,0.2-0.2,0.5-0.3,0.7c-0.2,0.4-0.6,0.7-0.9,1c-0.2,0.2-0.7,0.2-0.9,0.5c-0.2,0.3-0.2,0.8-0.4,1.1c-0.3,0.4-1.2,0.6-1.5,0.3
+		c-0.6-0.5-0.5-1.2-0.9-1.8c-0.2-0.3-0.7-0.3-0.9-0.6c-0.6-0.9-0.7-2.4-0.5-3.5c0.1-0.3,0.1-0.8,0.3-1c0.3-0.3,0.4-0.1,0.7-0.1
+		c0.5,0.1,1.1,0.1,1.6,0.1c0.2,0,0.4,0.1,0.6,0c0.1-0.1,0.1-0.4,0.1-0.6c0-0.4-0.1-0.7-0.1-1.1c0-0.1-0.1-0.3,0-0.5
+		c0.1-0.1,0.3-0.1,0.4-0.1c0.4,0,0.9,0.1,1.3,0.1c0.1,0,0.4,0.1,0.4,0c0.1-0.1,0-0.4,0-0.5c0-0.4-0.3-1.2-0.1-1.6
+		c0.1-0.2,0.4-0.1,0.5-0.1c0.4,0.1,0.9,0.1,1.3,0.2c0.1,0,0.3,0.1,0.4,0c0.1-0.1,0-0.4,0-0.6c0-0.4-0.1-0.7-0.1-1.1
+		c0-0.1-0.1-0.4,0-0.5c0.1-0.1,0.4-0.1,0.6,0c0.4,0.1,0.8,0.1,1.1,0.1c0.1,0,0.3,0.1,0.4,0c0.1-0.1,0.1-0.4,0.1-0.5
+		c0-0.4-0.1-0.8-0.1-1.2c0-0.1-0.1-0.3,0-0.4c0.1-0.1,0.3-0.1,0.4-0.1c0.4,0,0.9,0.1,1.3,0.1c0.1,0,0.4,0.1,0.5,0
+		c0.1-0.2,0-0.7,0-0.9c0-0.2,0-0.6-0.1-0.7c-0.1-0.1-0.5,0-0.7,0c-0.4,0-1.1,0.2-1.5,0.5c-0.4,0.3-0.3,0.7,0,1"/>
+	<path id="path1631" inkscape:connector-curvature="0" class="st17" d="M90.7,392.5l1.2,0l0-0.6l-0.2-1.6"/>
+	<path id="path1629" inkscape:connector-curvature="0" class="st17" d="M91.4,390.1c0.1-0.7,0.3-1.6,1-2c0.3-0.2,0.7-0.1,1-0.4
+		c0.2-0.2,0.2-0.7,0.4-0.9c0.2-0.3,0.6-0.5,0.7-0.9c0.1-0.3-0.4-0.5-0.6-0.6c-0.5-0.2-1-0.2-1.6-0.3c-0.2,0-0.5,0.1-0.7-0.1
+		c-0.1-0.2,0.1-1.1,0.2-1.3c0.2-0.1,0.4-0.1,0.6-0.1c0.9,0,1.9,0.4,2.6,0.9c0.3,0.2,0.8,0.8,0.3,1.1c-0.2,0.2-0.6,0.1-0.9,0.1"/>
+	<path id="path1627" inkscape:connector-curvature="0" class="st17" d="M91.9,392.6c0.2,0.2,0.2,0.6,0.2,0.9c0,0.6,0.3,1.3-0.1,1.8"
+		/>
+	<path id="path1625" inkscape:connector-curvature="0" class="st17" d="M92.1,392.7c0.6,0,1.1,0.1,1.7,0.1c0.1,0,0.5,0.1,0.5,0
+		c0.2-0.3-0.1-1.2-0.1-1.6c0-0.2-0.1-0.5,0-0.6c0.1-0.1,0.4,0,0.6,0c0.4,0.1,1.1,0.3,1.5,0.1c0.2-0.1,0.1-0.5,0.1-0.6
+		c-0.1-0.5,0-1.5-0.3-1.8"/>
+	<path id="path1623" inkscape:connector-curvature="0" class="st17" d="M92.1,395.3c0.5-0.4,1.3,0,1.9,0c0.2,0,0.5,0.1,0.6,0
+		c0.2-0.3-0.1-1.1-0.1-1.4c0-0.3,0-0.7-0.2-1"/>
+	<path id="path1621" inkscape:connector-curvature="0" class="st17" d="M93.4,387.7l0.4,0.4"/>
+	<path id="path1619" inkscape:connector-curvature="0" class="st17" d="M94,390.5l0.2,0.1"/>
+	<path id="path1617" inkscape:connector-curvature="0" class="st17" d="M94.5,396.9c1.4,1.4,2.7,2.9,4.3,4c3,2.1,6.9,2.5,10.2,0.8
+		c0.7-0.4,1.9-0.1,2.3-0.8c0.3-0.5,0.2-1.3,0.4-1.8c0.3-0.8,0.8-1.4,1-2.2c0.9-3.6-0.3-7.1-2.8-9.7c-0.6-0.7-1.3-1.3-1.9-2
+		c-0.2-0.2-0.5-0.6-0.8-0.7c-0.4,0-0.6,0.4-0.9,0.5c-0.2,0.1-0.5,0.1-0.7,0.3c-0.2,0.2-0.2,0.6-0.4,0.8c-0.3,0.3-0.7,0.8-1,1
+		c-0.2,0.1-0.6,0.1-0.7,0.3c-0.2,0.2-0.2,0.5-0.3,0.7c-0.4,0.6-1,1.1-1.8,1.3"/>
+	<path id="path1615" inkscape:connector-curvature="0" class="st17" d="M94.6,393.1c0.8,0.2,1.9-0.1,2.6,0.6"/>
+	<path id="path1613" inkscape:connector-curvature="0" class="st17" d="M94.6,395.4l0.4,0.3"/>
+	<path id="path1611" inkscape:connector-curvature="0" class="st17" d="M95.5,385.6l0.5,0.4"/>
+	<path id="path1609" inkscape:connector-curvature="0" class="st17" d="M95.6,384.9c0.3-0.3,0.7-0.8,1.1-1c0.3-0.2,0.7-0.1,1-0.4
+		c0.2-0.2,0.2-0.7,0.4-0.9c0.4-0.7,1.1-0.9,1.8-1"/>
+	<path id="path1607" inkscape:connector-curvature="0" class="st17" d="M96.3,388.6c0.6,0,1.1,0.1,1.7,0.1c0.1,0,0.5,0.1,0.5-0.1
+		c0.2-0.4-0.1-1.2-0.1-1.7c0-0.1-0.1-0.4,0-0.5c0.1-0.1,0.3,0,0.5,0c0.4,0.1,0.8,0.1,1.2,0.1c0.1,0,0.5,0.1,0.5,0
+		c0.2-0.4-0.1-1.2-0.1-1.6c0-0.1-0.1-0.4,0-0.5c0.1-0.1,0.3-0.1,0.4-0.1c0.4,0,0.9,0.1,1.3,0.1c0.1,0,0.4,0.1,0.5,0
+		c0.1-0.1,0-0.4,0-0.5c-0.1-0.4-0.1-0.8-0.1-1.2c0-0.1-0.1-0.4,0.1-0.5c0.2-0.1,0.5,0,0.7,0c0.6,0.1,1.2,0.2,1.7,0.3
+		c0.6,0.1,1.3-0.1,1.8,0.1c0.6,0.2,0.9,0.6,0.5,1.1c-0.1,0.2-0.2,0.4-0.3,0.6"/>
+	<path id="path1605" inkscape:connector-curvature="0" class="st17" d="M96.4,390.8c0.2,0.2,0.5,0.2,0.8,0.2
+		c0.6,0.1,1.1,0.2,1.7,0.2"/>
+	<path id="path1603" inkscape:connector-curvature="0" class="st17" d="M96.8,393.3l-0.2-2.3"/>
+	<path id="path1601" inkscape:connector-curvature="0" class="st17" d="M97.6,383.6l0.5,0.4"/>
+	<path id="path1599" inkscape:connector-curvature="0" class="st17" d="M97.8,397c0.6,0.6,1.2,1.3,2,1.9c1.9,1.4,4.5,2.1,6.8,1.3"/>
+	<path id="path1597" inkscape:connector-curvature="0" class="st17" d="M98.2,386.3l0.1,0.1"/>
+	<path id="path1595" inkscape:connector-curvature="0" class="st17" d="M98.5,388.8l0.2,0.2"/>
+	<path id="path1593" inkscape:connector-curvature="0" class="st17" d="M100.3,384.2l0.2,0.2"/>
+	<path id="path1591" inkscape:connector-curvature="0" class="st17" d="M100.7,386.7c0.4,0.3,1.3,0.3,1.8,0.3c0.2,0,0.5,0.1,0.6,0
+		c0.1-0.1,0-0.4,0-0.6c0-0.5,0-1.5-0.3-1.8"/>
+	<path id="path1589" inkscape:connector-curvature="0" class="st17" d="M101,389.1l-0.2-2.3"/>
+	<path id="path1587" inkscape:connector-curvature="0" class="st17" d="M102.4,380.4c0.6,0,1.2,0.1,1.8,0.3c0.2,0.1,0.5,0.1,0.6,0.3
+		c0.2,0.4,0.1,1.1,0.1,1.5"/>
+	<path id="path1585" inkscape:connector-curvature="0" class="st17" d="M102.5,382.2l0.1,0.1"/>
+	<path id="path1583" inkscape:connector-curvature="0" class="st17" d="M103,384.8l1.7,0.1l0.5,0l0-0.6l-0.1-1.6"/>
+	<path id="path1581" inkscape:connector-curvature="0" class="st17" d="M103.1,387l0.4,0.3"/>
+	<path id="path1579" inkscape:connector-curvature="0" class="st17" d="M104.9,381.1c0.9,0.2,1.5,0.7,1.9,1.5"/>
+	<path id="path1577" inkscape:connector-curvature="0" class="st17" d="M105.2,385l0.3,0.3"/>
+</g>
 </svg>
