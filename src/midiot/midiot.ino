@@ -5,13 +5,13 @@
 
 const int BUTTON_PIN = 5;
 const int LED_PIN = 13;
-const int LED_R_PIN = 10;
-const int LED_G_PIN = 11;
+const int LED_R_PIN = 11;
+const int LED_G_PIN = 10;
 
 int note;
 
 
-bool led_r_state = false;
+int led_r_state = 0;
 
 WiFiSSLClient wifiClient;
 
@@ -20,7 +20,7 @@ LosantDevice device(LOSANT_DEVICE_ID);
 MIDI_CREATE_DEFAULT_INSTANCE();
 
 void setup() {
-  MIDI.begin();     
+  MIDI.begin();
   WiFi.setPins(8, 7, 4, 2);
   Serial.begin(115200);
   while (!Serial) { }
@@ -29,16 +29,11 @@ void setup() {
   pinMode(LED_R_PIN, OUTPUT);
   pinMode(LED_G_PIN, OUTPUT);
 
-  digitalWrite(LED_R_PIN, LOW);
-  digitalWrite(LED_G_PIN, HIGH);
-
-
-
   // Register the command handler
   device.onCommand(&handleCommand);
 
   connect();
-  
+
 }
 
 void loop() {
@@ -65,12 +60,12 @@ void loop() {
   delay(100);
 }
 
-void play_note(int note){
+void play_note(int note) {
   digitalWrite(LED_R_PIN, 0);
   MIDI.sendNoteOn(note, 127, 1);    // Send a Note (pitch 42, velo 127 on channel 1)
   delay(100);                // Wait for a second
   MIDI.sendNoteOff(note, 0, 1);     // Stop the note
-  digitalWrite(LED_R_PIN, 1);  
+  digitalWrite(LED_R_PIN, 1);
 }
 
 // Called whenever the device receives a command from the Losant platform.
@@ -85,7 +80,7 @@ void handleCommand(LosantCommand *command) {
     Serial.println(note);
     play_note(note);
   }
-  
+
 }
 
 void connect() {
@@ -95,10 +90,14 @@ void connect() {
   Serial.println();
   Serial.print("Connecting to ");
   Serial.println(WIFI_SSID);
+  digitalWrite(LED_R_PIN, LOW);
+  digitalWrite(LED_G_PIN, HIGH);
 
   WiFi.begin(WIFI_SSID, WIFI_PASS);
 
   while (WiFi.status() != WL_CONNECTED) {
+    led_r_state = !led_r_state;
+    digitalWrite(LED_R_PIN, led_r_state);
     delay(500);
     Serial.print(".");
   }
@@ -113,9 +112,8 @@ void connect() {
 
   device.connectSecure(wifiClient, LOSANT_ACCESS_KEY, LOSANT_ACCESS_SECRET);
 
+  digitalWrite(LED_R_PIN, LOW);
   while (!device.connected()) {
-    led_r_state = !led_r_state;
-    digitalWrite(LED_R_PIN, led_r_state);
     delay(500);
     Serial.print(".");
   }
